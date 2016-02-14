@@ -1,0 +1,3 @@
+[submodule "vendor/ohhttpstubs"]
+	path = vendor/ohhttpstubs
+	url = git://github.com/AliSoftware/OHHTTPStubs
